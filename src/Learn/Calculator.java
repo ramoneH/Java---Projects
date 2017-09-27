@@ -7,7 +7,7 @@ public class Calculator {
 		multiplySum(5,10);
 		subtractSum(3,-9);
 		divideSum(50,10);
-
+ 
 	}
 
 	static int calculateSum(int a, int b) {
@@ -23,4 +23,5 @@ public class Calculator {
 		System.out.println(a-b);
 	}
     
+	
 }
