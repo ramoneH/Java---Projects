@@ -18,6 +18,7 @@ public class PasswordCheck {
 					
 		
 			
+			int p = 0;
 			if (input.charAt(p)>='A' && input.charAt(p)<='Z') {
 				
 				;
